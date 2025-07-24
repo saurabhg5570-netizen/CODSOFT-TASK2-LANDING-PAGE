@@ -10,6 +10,7 @@ Welcome to the official landing page for **TimeX Pro**, a modern, responsive, an
 ## 🌐 Live Demo
 
 🔗 [View Live Project](#)  
+https://github.com/saurabhg5570-netizen/CODSOFT-TASK2-LANDING-PAGE.git
 
 _
 
