@@ -35,12 +35,19 @@ _
 - **Responsive Design Principles**
 
 ---
+## 🛒 Contact to Buy – TimeX Pro
 
-## 🖼️ Screenshots
+Want to purchase the **TimeX Pro Smartwatch** or have questions?  
+Get in touch with our product team:
 
-> Showcase your product at a glance:
+- **📧 Email:** timexpro.orders@gmail.com  
+- **📱 Phone / WhatsApp:** +91-7800771340  
+- **🌍 Shipping:** Pan-India delivery available  
+- **🕒 Customer Support:** 10:00 AM – 8:00 PM IST (Mon–Sat)
 
-<img src="timexpro.jpg" alt="TimeX Pro Screenshot" width="500"/>
+💬 For bulk orders, customization, or delivery updates, feel free to call or message.
+We’re always happy to help you choose the perfect smartwatch!
+
 
 ---
 
