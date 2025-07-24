@@ -40,7 +40,7 @@ _
 
 > Showcase your product at a glance:
 
-<img src="images/timexpro.jpg" alt="TimeX Pro Screenshot" width="500"/>
+<img src="timexpro.jpg" alt="TimeX Pro Screenshot" width="500"/>
 
 ---
 
