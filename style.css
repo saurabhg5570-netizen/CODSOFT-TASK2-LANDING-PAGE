@@ -1,0 +1,127 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+body {
+  background: #fdfdfd;
+  color: #333;
+}
+
+.hero {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 80px 10%;
+  background: linear-gradient(120deg, #000, #111);
+  color: white;
+  flex-wrap: wrap;
+}
+
+.hero .text {
+  flex: 1;
+  min-width: 300px;
+}
+
+.hero .text h1 {
+  font-size: 3rem;
+  margin-bottom: 15px;
+}
+
+.hero .text span {
+  color: #ff9900;
+}
+
+.hero .text p {
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+  line-height: 1.6;
+}
+
+.hero .image img {
+  width: 300px;
+  border-radius: 20px;
+  box-shadow: 0 0 15px rgba(255, 153, 0, 0.5);
+}
+
+.btn {
+  background: #ff9900;
+  color: white;
+  padding: 12px 25px;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.btn:hover {
+  background: #e67e00;
+}
+
+section {
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.features h2 {
+  font-size: 2rem;
+  margin-bottom: 30px;
+}
+
+.features-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+  padding: 0 10%;
+}
+
+.feature-card {
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 0 12px rgba(0,0,0,0.1);
+  font-size: 1.1rem;
+  transition: transform 0.3s ease;
+}
+
+.feature-card:hover {
+  transform: scale(1.05);
+}
+
+.pricing {
+  background: #222;
+  color: white;
+}
+
+.pricing h2 {
+  font-size: 2.2rem;
+  margin-bottom: 15px;
+}
+
+.price {
+  font-size: 1.8rem;
+  margin-bottom: 25px;
+}
+
+.price span {
+  color: #ff9900;
+  font-size: 1rem;
+}
+
+.contact {
+  padding-bottom: 80px;
+}
+
+.contact a {
+  color: #ff9900;
+  text-decoration: none;
+}
+
+footer {
+  background: #111;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
